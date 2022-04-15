@@ -1,16 +1,13 @@
-# clima
+# Clima ☁
 
-A new Flutter project.
+Deetermines the weather at users current location as well as of any other city searched for. 
 
-## Getting Started
+Used following concepts -
 
-This project is a starting point for a Flutter application.
+1) Asynchronous programming
+2) Geolocator package
+3) API to fetch data 
+4) Exception handling
 
-A few resources to get you started if this is your first Flutter project:
+![Finished App](https://github.com/londonappbrewery/Images/blob/master/clima-demo.gif)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
